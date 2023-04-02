@@ -1,5 +1,6 @@
 
 
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center">Привет 👋, меня зовут Денис</h1>
 <p> Я - frontend-разработчик с более чем 1 годом опытом работы в области HTML, CSS и JavaScript. Мой профессионализм проявляется в разработке высококачественных, отзывчивых и кросс-браузерных веб-приложений.
 
@@ -19,11 +20,18 @@
 - 🌱Сейчас я учусь в **Skillbox**
 - ⚡ Fun fact **Я думаю, что я забавный**
 
-## Умение
-- 👨‍💻 HTML5, CSS3,JS.
-- ⚙️ React
-- 👯 Figma 
-
+ ## Умение
+<div style="display: inline_block"><br>
+  <img height="40" align="center" alt="Erica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Erica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+</br>
 
 
 ## Контакт
@@ -36,4 +44,9 @@
 ## Статистика
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <a href="https://github.com/MartinHeinz/MartinHeinz">
+
+  
+
+
+
 
