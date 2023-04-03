@@ -18,7 +18,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=denison1526&label=Profile%20views&color=0e75b6&style=flat" alt="denison1526" /> </p>
 
 - 🌱Сейчас я учусь в **Skillbox**
-- ⚡ Fun fact **Я думаю, что я забавный**
+- ⚡ Забавный факт: **Я думаю, что я забавный**
 
  ## Умение
 <div style="display: inline_block"><br>
@@ -35,8 +35,9 @@
 
 
 ## Контакт
-- 📫 Как со мной связаться **den_is1996@list.ru**
+- Как со мной связаться **den_is1996@list.ru**
 - [Denison#6035](./) on Discord
+- https://t.me/Dionisio96 Телеграм
 
 
 
