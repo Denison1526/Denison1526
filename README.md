@@ -17,7 +17,7 @@
 <img alin="right" alt="coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=denison1526&label=Profile%20views&color=0e75b6&style=flat" alt="denison1526" /> </p>
 
-- 🌱Сейчас я учусь в **Skillbox**
+- 🌱Сейчас я учусь в **Skillbox** направление Frontend-разработчик
 - ⚡ Забавный факт: **Я думаю, что я забавный**
 
  ## Умение
